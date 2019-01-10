@@ -9,6 +9,7 @@ class Shoe
     end
   end
   
+  # class constant, keeps info of all instances
   BRANDS = []
 
   def cobble
